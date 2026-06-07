@@ -1,4 +1,4 @@
-# TalentAI - AI Interview Preparation Platform
+# GEN-AI Based AI Interview Preparation Platform
 
 TalentAI is an AI-powered interview preparation platform that helps candidates improve their interview readiness by analyzing resumes, matching them with job descriptions, generating interview questions, identifying skill gaps, creating preparation roadmaps, and generating ATS-friendly resumes.
 
